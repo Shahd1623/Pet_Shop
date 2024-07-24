@@ -1,0 +1,23 @@
+com.example.dog_shop.app-jetified-annotation-experimental-1.1.0-0 C:\Users\shahd\.gradle\caches\transforms-3\0d052830b2786ff3a16b176a78aaf876\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.dog_shop.app-browser-1.4.0-1 C:\Users\shahd\.gradle\caches\transforms-3\248126f32f950e2d77b3cfa47a699f00\transformed\browser-1.4.0\res
+com.example.dog_shop.app-jetified-firebase-common-21.0.0-2 C:\Users\shahd\.gradle\caches\transforms-3\3ba64a153a94f12048c2f977907b0487\transformed\jetified-firebase-common-21.0.0\res
+com.example.dog_shop.app-jetified-play-services-auth-20.7.0-3 C:\Users\shahd\.gradle\caches\transforms-3\3e8c4b264bcc3d80e1e54e3018f93432\transformed\jetified-play-services-auth-20.7.0\res
+com.example.dog_shop.app-jetified-window-java-1.0.0-beta04-4 C:\Users\shahd\.gradle\caches\transforms-3\445a9f7f73b9da1fa9399295f912a3c8\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.dog_shop.app-jetified-play-services-basement-18.3.0-5 C:\Users\shahd\.gradle\caches\transforms-3\6b73ea844e130d4fb5a0fa96a53188a3\transformed\jetified-play-services-basement-18.3.0\res
+com.example.dog_shop.app-jetified-window-1.0.0-beta04-6 C:\Users\shahd\.gradle\caches\transforms-3\94edcf270a2984a526b6602e733e7532\transformed\jetified-window-1.0.0-beta04\res
+com.example.dog_shop.app-core-1.6.0-7 C:\Users\shahd\.gradle\caches\transforms-3\9fdc3dbcbe0d07f8d6386d14166d6fac\transformed\core-1.6.0\res
+com.example.dog_shop.app-jetified-credentials-play-services-auth-1.2.0-rc01-8 C:\Users\shahd\.gradle\caches\transforms-3\a1a222eaee39a43c7730202e501c9330\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.dog_shop.app-jetified-play-services-base-18.0.1-9 C:\Users\shahd\.gradle\caches\transforms-3\b1b982425762332e052bd3d2796e1a0f\transformed\jetified-play-services-base-18.0.1\res
+com.example.dog_shop.app-jetified-credentials-1.2.0-rc01-10 C:\Users\shahd\.gradle\caches\transforms-3\cbb011f154c154dec110e8c4d4d2c617\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.dog_shop.app-packaged_res-11 C:\Users\shahd\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.1.0\android\build\intermediates\packaged_res\debug
+com.example.dog_shop.app-packaged_res-12 C:\Users\shahd\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.1.2\android\build\intermediates\packaged_res\debug
+com.example.dog_shop.app-packaged_res-13 C:\Users\shahd\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.2.0\android\build\intermediates\packaged_res\debug
+com.example.dog_shop.app-google-services-14 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\generated\res\google-services\debug
+com.example.dog_shop.app-pngs-15 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\generated\res\pngs\debug
+com.example.dog_shop.app-resValues-16 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\generated\res\resValues\debug
+com.example.dog_shop.app-rs-17 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\generated\res\rs\debug
+com.example.dog_shop.app-mergeDebugResources-18 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.dog_shop.app-mergeDebugResources-19 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.dog_shop.app-merged_res-20 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\build\intermediates\merged_res\debug
+com.example.dog_shop.app-debug-21 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\src\debug\res
+com.example.dog_shop.app-main-22 C:\Users\shahd\OneDrive\Desktop\collage stuff\Flutter_Project\St.Act_Project\dog_shop\android\app\src\main\res
